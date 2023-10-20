@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Oficina_Control
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### <a href="https://www.notion.so/21286c01094141db89889d9356378e05?v=a78a9780b6444be0afada1ae407b156c&pvs=4"> Gestão de Demandas </a>
